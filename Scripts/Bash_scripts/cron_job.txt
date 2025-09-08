@@ -1,0 +1,3 @@
+# Cron job for linux assignment to run ETL.sh script
+# The job will execute at everyday at 12:00 am
+0 0 * * * /home/CDE/assignment/Scripts/Bash_scripts/ETL.sh
